@@ -1,4 +1,4 @@
 <?php
-echo "test.php";
 echo " yangchen ";
-echo "ran";
+echo "liushiran";
+echo "mylove";
